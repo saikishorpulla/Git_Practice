@@ -1,0 +1,8 @@
+#python program for even num & odd num
+import json
+for i in range(100): 
+    if i%2 == 0:
+        print(f'{i} is an even number')
+    else:
+        print(f'{i} is an even number')
+    
