@@ -5,4 +5,6 @@ for i in range(100):
         print(f'{i} is an even number')
     else:
         print(f'{i} is an even number')
+
+        # this is my first code
     
